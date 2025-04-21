@@ -2,7 +2,22 @@
 <img src="ProfilePicSquare.jpg" alt="Profile Image" height="200">
 
 ### Summary
-Currently earning a MS degree in Data Science with over ten years professional laboratory experience in healthcare cytogenetics and recent web development and data analysis certificates and projects. Lifelong learner who excels at attention to detail, time management, and teamwork. Leveraging organization and prioritization transferable skills from a genetics background to career pivot into Data Science.
+Currently earning a MS degree in Data Science with over ten years professional laboratory experience in healthcare cytogenetics and recent web development and data analysis certificates and projects. Lifelong learner who excels at attention to detail, time management, and teamwork. Leveraging organization and prioritization transferable skills from a genetics background to career pivot into Data Science.  
+
+### Projects
+Relationship Between Crime and Unemployment | [Report](https://emilyk221.github.io/crime-unemployment-relationship/)
+  - Using EDA and RStudio, combined data from multiple public sources and reported on insights gathered
+  - Designed plots to visualize numerical data and variable relationships, presented findings in video format
+
+Natural Language Processing | [GitHub Repo](https://github.com/emilyk221/natural-language-processing-program)
+  - Analyzed presidential debate transcript text using Python, Pandas, and TextBlob in Jupyter notebook
+
+Classification Web App | [Web App](https://classification-web-app-fwnaxvgw3ufrpeewu6umcp.streamlit.app/)
+  - Built a binary classification web app using Python and Streamlit, code on GitHub and deployed on Streamlit
+  - Designed app to give metrics data comparing accuracy and precision for different classification models
+
+Capstone Data Insights Project | [Data Insights Presentation](https://docs.google.com/presentation/d/132pwonusVjFsx0GOPRNQvSTYR9tOq0bU2ZYpplRF9BA/edit?usp=sharing)
+  - Explored data using Google Sheets and statistical measures, applied and interpreted a linear regression model
 
 ### Education
 - MS in Data Science | Ball State University (expected graduation Dec. 2026)
@@ -22,19 +37,4 @@ Ohio State University Wexner Medical Center	Columbus, OH | Cytogenetics Lab Tech
   - Analyzed chromosome banding patterns, routinely exceeding the average productivity by 15%
   - Collaboratively improved workflow efficiency, written procedures, and a new hire training plan
   - Solved daily wet lab quality issues, communicated stat results, and tracked reagent inventory using MS Excel
-
-### Projects
-Relationship Between Crime and Unemployment | [Report](https://emilyk221.github.io/crime-unemployment-relationship/)
-  - Using EDA and RStudio, combined data from multiple public sources and reported on insights gathered
-  - Designed plots to visualize numerical data and variable relationships, presented findings in video format
-
-Natural Language Processing | [GitHub Repo](https://github.com/emilyk221/natural-language-processing-program)
-  - Analyzed presidential debate transcript text using Python, Pandas, and TextBlob in Jupyter notebook
-
-Classification Web App | [Web App](https://classification-web-app-fwnaxvgw3ufrpeewu6umcp.streamlit.app/)
-  - Built a binary classification web app using Python and Streamlit, code on GitHub and deployed on Streamlit
-  - Designed app to give metrics data comparing accuracy and precision for different classification models
-
-Capstone Data Insights Project | [Data Insights Presentation](https://docs.google.com/presentation/d/132pwonusVjFsx0GOPRNQvSTYR9tOq0bU2ZYpplRF9BA/edit?usp=sharing)
-  - Explored data using Google Sheets and statistical measures, applied and interpreted a linear regression model
 
