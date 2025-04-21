@@ -1,5 +1,5 @@
 # Data Scientist
-![Profile Image](ProfilePicSquare.jpeg)
+![Profile Image](ProfilePicSquare.jpg)
 
 ### Summary
 Currently earning a MS degree in Data Science with over ten years professional laboratory experience in healthcare cytogenetics and recent web development and data analysis certificates and projects. Lifelong learner who excels at attention to detail, time management, and teamwork. Leveraging organization and prioritization transferable skills from a genetics background to career pivot into Data Science.
